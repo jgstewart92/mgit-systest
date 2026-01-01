@@ -10049,7 +10049,7 @@ edit 1: weir juniper island stone oasis
 10047 zephyr knoll sierra estuary field island
 10048 zephyr dune wren dune anchor nectar
 10049 island outcrop canyon grove lantern canyon jetty jetty
-10050 grove anchor harbor basalt pebble cobalt upland field ember ripple zephyr
+edit 12: grove stone birch meadow
 10051 nook ridge upland hollow pebble ridge harbor birch
 10052 prairie timber nook harbor canyon ledge orbit nectar amber cobalt
 10053 plateau tor basalt plateau ledge reef valley nook meadow sierra
