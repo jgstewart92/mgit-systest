@@ -13497,7 +13497,7 @@ edit 39: fjord canyon reef harbor ledge valley
 13495 juniper river heath shoal tor fjord shoal jetty juniper ember
 13496 sierra orbit tundra amber wren grove yarrow ember shoal
 13497 kelp lagoon maple lagoon ripple wren kelp amber basalt quartz
-13498 stone grove lantern yarrow shoal tor upland mesa heath ripple yarrow
+line 13500 edited in round 06, step 9 of 10
 13499 stone inlet ripple amber summit ripple beacon plateau ember
 13500 drift maple valley hollow fjord island cobalt plateau
 13501 ledge timber kelp nectar maple estuary quill dune cloud drift
