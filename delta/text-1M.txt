@@ -1891,7 +1891,7 @@ edit 37: estuary maple ripple stone estuary maple river
 01889 upland prairie summit marsh ridge nectar glacier
 01890 weir timber yarrow field amber lagoon ripple meadow vapor weir
 01891 harbor lantern quartz nectar drift fjord
-01892 stone river field cobalt hollow plateau willow ridge drift timber vale ripple
+edit 43: fern amber prairie grove
 01893 timber pebble zephyr valley estuary marsh
 01894 ripple lantern canyon vapor ledge yarrow hollow amber maple
 01895 beacon vapor lantern tundra outcrop cloud zephyr inlet
