@@ -814,7 +814,7 @@ edit 10: drift quill wren umber field ripple
 00812 fjord tundra reef river ridge fjord lantern
 00813 island river sierra tor vapor drift outcrop meadow cloud fern wren
 00814 stone umber mesa inlet knoll glacier birch knoll
-00815 anchor nectar tor nook inlet fern
+edit 47: quill cobalt yarrow quartz nook wren
 00816 orbit tundra weir kelp inlet umber prairie
 00817 marsh reef dune river drift zephyr ripple upland weir basalt reef estuary
 00818 summit basalt ledge vapor dune wren inlet shoal oasis
