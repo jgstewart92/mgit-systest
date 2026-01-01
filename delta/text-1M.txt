@@ -8997,7 +8997,7 @@ edit 2: amber stone juniper grove stone field
 08998 heath kelp drift sierra valley yarrow hollow fern mesa quartz yarrow summit
 08999 umber island wren nook ledge kelp anchor maple tor stone valley lantern
 09000 willow cloud kelp ember nectar stone lantern amber ridge willow anchor yarrow
-09001 yarrow ripple field orbit quill knoll jetty ripple outcrop
+line 9000 edited in round 06, step 6 of 10
 09002 ember orbit fjord lagoon oasis glacier anchor nectar
 09003 prairie timber orbit lagoon sierra island shoal basalt kelp anchor
 09004 outcrop heath knoll inlet nectar fern cloud sierra drift weir nectar drift
