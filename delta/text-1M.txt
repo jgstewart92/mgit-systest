@@ -6870,7 +6870,7 @@ edit 4: ridge weir weir ledge
 06869 ripple orbit juniper vale beacon drift wren vapor
 06870 prairie yarrow tor ledge nectar vapor plateau
 06871 basalt anchor timber tundra canyon shoal timber birch pebble field hollow inlet
-06872 shoal fjord oasis prairie stone oasis quartz marsh
+edit 8: mesa yarrow field reef fjord willow
 06873 nectar cobalt summit stone tor fern fern ember
 06874 vapor ridge harbor amber heath nook
 06875 juniper estuary grove yarrow outcrop knoll lantern
