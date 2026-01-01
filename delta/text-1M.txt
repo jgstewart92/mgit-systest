@@ -11410,7 +11410,7 @@ edit 12: grove stone birch meadow
 11411 lagoon field quill ledge drift stone vale fjord estuary
 11412 valley grove tundra stone lantern tor umber vapor meadow glacier
 11413 umber nectar knoll fjord field wren knoll
-11414 tundra summit weir quill vapor fjord basalt fern summit
+edit 29: weir jetty dune canyon birch dune
 11415 lantern yarrow zephyr drift quill canyon birch dune
 11416 fern mesa zephyr quartz zephyr cobalt weir juniper wren
 11417 grove marsh zephyr cobalt island amber anchor willow
