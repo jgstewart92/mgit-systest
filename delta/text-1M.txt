@@ -6318,7 +6318,7 @@ edit 31: heath pebble orbit maple grove amber upland
 06319 knoll reef orbit dune nook ember fjord
 06320 outcrop glacier beacon oasis plateau birch kelp kelp river quill
 06321 pebble cobalt dune birch basalt glacier meadow orbit
-06322 grove birch umber canyon nook ember marsh
+edit 46: orbit valley anchor canyon
 06323 oasis ledge mesa harbor yarrow valley wren canyon willow sierra
 06324 willow shoal ripple outcrop basalt ember sierra estuary
 06325 orbit umber vapor reef timber prairie maple umber zephyr
