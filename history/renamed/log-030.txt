@@ -1,3 +1,0 @@
-entry 30
-outcrop cloud oasis dune amber weir prairie
-amended at step 33
