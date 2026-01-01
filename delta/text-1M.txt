@@ -1970,7 +1970,7 @@ edit 10: drift quill wren umber field ripple
 01968 amber plateau inlet amber quill mesa
 01969 glacier canyon shoal birch meadow marsh oasis ember field
 01970 jetty tundra estuary quill cobalt vale stone jetty beacon oasis shoal
-01971 lantern willow dune juniper anchor mesa tor
+edit 36: plateau quartz mesa quill ridge knoll sierra amber
 01972 orbit willow plateau dune knoll drift
 01973 willow ember hollow yarrow reef reef inlet
 01974 island ripple inlet heath fjord harbor weir amber
