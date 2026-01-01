@@ -5954,7 +5954,7 @@ edit 4: ridge weir weir ledge
 05953 meadow quartz hollow willow grove pebble drift dune tor ledge
 05954 mesa canyon beacon field cloud ember dune
 05955 tundra inlet fjord juniper anchor kelp vale cloud timber valley quartz
-05956 quartz nook nectar glacier lantern jetty birch pebble inlet kelp
+edit 23: birch amber vapor amber nook
 05957 knoll inlet knoll tor lagoon ripple beacon harbor
 05958 birch kelp lagoon hollow basalt marsh lantern
 05959 ripple knoll willow marsh birch mesa
