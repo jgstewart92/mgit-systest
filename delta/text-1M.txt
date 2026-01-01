@@ -2692,7 +2692,7 @@ edit 36: plateau quartz mesa quill ridge knoll sierra amber
 02690 ember basalt birch juniper quartz orbit
 02691 ripple quill estuary stone harbor amber quartz fern river
 02692 quartz juniper upland grove timber willow ember
-02693 glacier lagoon fern sierra stone nectar oasis vale harbor ember
+edit 59: estuary maple jetty juniper plateau fjord harbor summit
 02694 estuary quill hollow ridge island nectar
 02695 cloud knoll timber tundra stone upland amber yarrow umber upland hollow jetty
 02696 maple prairie nectar basalt cobalt quartz maple estuary upland estuary fjord knoll
