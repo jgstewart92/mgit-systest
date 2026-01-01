@@ -13623,7 +13623,7 @@ edit 3: zephyr birch lantern timber juniper
 13622 maple nook tor river weir basalt fjord quill stone
 13623 vale nook marsh orbit wren lagoon meadow sierra birch
 13624 prairie basalt fjord beacon ripple pebble anchor
-edit 16: fjord meadow nectar lantern pebble ember prairie nectar
+edit 17: pebble lagoon vale summit wren amber umber
 13626 wren maple maple quartz ledge fern juniper quill summit
 13627 heath anchor drift amber harbor marsh
 13628 weir nook juniper ember grove island outcrop
