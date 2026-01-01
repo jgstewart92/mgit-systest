@@ -5041,7 +5041,6 @@ edit 4: ridge weir weir ledge
 05039 oasis upland quartz dune mesa grove tor lantern
 05040 meadow summit maple tor maple quill fjord shoal summit
 05041 meadow vapor ridge anchor field stone lantern lagoon dune yarrow
-05042 summit reef pebble plateau nook ember orbit weir quartz timber juniper
 05043 quartz meadow maple river island fjord vale dune
 05044 grove field valley vale cloud marsh grove shoal maple harbor lantern lantern
 05045 weir river quill prairie vale basalt
