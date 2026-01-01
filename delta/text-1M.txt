@@ -1497,7 +1497,7 @@ edit 37: estuary maple ripple stone estuary maple river
 01494 grove amber oasis amber pebble jetty harbor beacon shoal
 01495 inlet summit grove maple tor field wren grove meadow canyon
 01496 vale birch outcrop zephyr ripple lantern outcrop birch
-01497 cobalt hollow cobalt oasis dune reef vapor nectar amber knoll
+line 1500 edited in round 06, step 1 of 10
 01498 dune jetty inlet fern heath timber estuary
 01499 maple meadow fjord cloud lagoon hollow yarrow lagoon
 01500 quill field amber umber fjord stone kelp
