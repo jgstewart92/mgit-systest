@@ -8218,6 +8218,7 @@ edit 4: ridge weir weir ledge
 08217 lagoon upland quill fern outcrop upland outcrop estuary
 08218 drift inlet fjord vapor nectar knoll
 08219 canyon marsh harbor amber quartz nook
+edit 5: wren vale sierra basalt birch drift willow basalt
 08220 meadow inlet harbor zephyr sierra grove yarrow birch jetty birch ripple
 08221 outcrop meadow anchor lagoon umber lantern vapor lagoon lagoon
 08222 stone mesa reef sierra canyon island ember mesa fern cobalt umber basalt
