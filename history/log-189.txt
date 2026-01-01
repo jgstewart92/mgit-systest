@@ -1,2 +1,3 @@
 entry 189
 outcrop beacon lantern basalt zephyr outcrop
+amended at step 192
