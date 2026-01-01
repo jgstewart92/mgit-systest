@@ -14510,6 +14510,7 @@ edit 17: pebble lagoon vale summit wren amber umber
 14509 zephyr canyon orbit yarrow kelp nectar
 14510 anchor dune reef umber sierra meadow valley shoal
 14511 cobalt fjord zephyr tor zephyr zephyr harbor
+edit 25: lantern ridge orbit glacier
 14512 heath fjord lagoon upland harbor oasis stone quill quill reef
 14513 willow vapor glacier yarrow lantern nook estuary upland vapor timber tundra grove
 14514 heath island birch canyon hollow jetty wren knoll island
