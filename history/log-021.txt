@@ -1,2 +1,3 @@
 entry 21
 inlet glacier heath nectar shoal pebble shoal harbor lagoon
+amended at step 24
