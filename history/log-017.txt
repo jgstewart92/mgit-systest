@@ -1,2 +1,3 @@
 entry 17
 dune ridge kelp outcrop upland tor yarrow
+amended at step 20
