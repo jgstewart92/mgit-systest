@@ -1,0 +1,2 @@
+Synthetic system-test data for mgit, made by a deterministic generator (one fixed seed).
+Every file in this repository is generated test data; none of it is a program.
