@@ -11011,7 +11011,7 @@ edit 12: grove stone birch meadow
 11012 fjord fern weir timber tor birch meadow
 11013 ripple umber inlet ledge yarrow cloud drift ripple
 11014 pebble knoll upland nook upland jetty umber ember nook
-11015 sierra juniper cloud quill timber juniper quill lantern pebble
+edit 33: oasis nook yarrow reef outcrop drift
 11016 prairie jetty upland lantern outcrop summit sierra summit upland lantern drift lagoon
 11017 juniper glacier quartz basalt wren jetty field
 11018 hollow vale cloud ridge quill quill meadow fjord jetty
