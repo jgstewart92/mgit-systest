@@ -14885,7 +14885,6 @@ edit 25: lantern ridge orbit glacier
 14883 river drift birch vale juniper amber quartz jetty yarrow tor timber
 14884 yarrow ember juniper maple orbit fern quartz prairie estuary field willow
 14885 field marsh quill weir river drift inlet umber
-14886 upland juniper oasis ripple upland zephyr harbor
 14887 juniper maple inlet tundra drift beacon ember knoll
 14888 estuary lagoon lantern mesa outcrop shoal oasis maple river pebble cloud sierra
 14889 ripple cloud river stone vale valley wren plateau tundra
