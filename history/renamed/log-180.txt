@@ -1,3 +1,0 @@
-entry 180
-anchor beacon hollow upland ridge jetty valley willow
-amended at step 183
