@@ -4497,7 +4497,7 @@ edit 48: fern juniper juniper glacier
 04496 quill nook lantern vale weir maple yarrow prairie ripple nook
 04497 lantern hollow marsh sierra tundra knoll summit jetty ember grove mesa
 04498 field kelp weir meadow quartz ledge shoal pebble
-04499 prairie upland ridge island lantern meadow island
+line 4500 edited in round 06, step 3 of 10
 04500 drift drift marsh sierra oasis amber mesa grove marsh basalt yarrow
 04501 valley birch birch plateau fjord basalt
 04502 sierra orbit lantern willow mesa ripple shoal vapor
