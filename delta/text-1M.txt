@@ -16216,7 +16216,7 @@ edit 6: umber grove shoal wren
 16213 estuary zephyr outcrop ripple meadow jetty oasis glacier nook meadow
 16214 drift glacier upland yarrow kelp prairie heath
 16215 sierra nook basalt cloud ledge mesa
-16216 fjord cobalt zephyr maple nectar summit
+edit 58: quartz prairie stone mesa
 16217 river ember vale glacier tundra orbit maple glacier quill outcrop
 16218 wren anchor nectar sierra valley ripple nectar plateau quill ridge timber
 16219 vapor willow summit summit quill nectar
