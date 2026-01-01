@@ -1114,6 +1114,7 @@ edit 47: quill cobalt yarrow quartz nook wren
 01112 stone lagoon canyon jetty island stone
 01113 birch summit zephyr birch grove tundra canyon harbor lagoon wren
 01114 orbit quill lagoon plateau island ridge estuary
+edit 60: vale wren estuary tundra nectar jetty nook field
 01115 quill heath vapor ripple yarrow pebble inlet valley prairie canyon
 01116 nook field prairie timber island jetty tor quartz ripple
 01117 beacon lagoon marsh weir fjord juniper vale kelp quill mesa heath
