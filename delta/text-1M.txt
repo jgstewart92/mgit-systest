@@ -14891,7 +14891,7 @@ edit 25: lantern ridge orbit glacier
 14890 juniper hollow summit weir willow canyon wren ripple quill maple birch
 14891 beacon mesa drift ridge tor vale
 14892 fern estuary valley knoll ember plateau
-14893 maple orbit fjord valley umber ripple lagoon vale cloud
+edit 34: wren grove grove quill glacier shoal hollow summit
 14894 cobalt nectar fjord kelp beacon umber vale outcrop birch dune
 14895 stone ledge prairie ridge yarrow drift vapor jetty hollow
 14896 marsh lantern jetty island orbit maple fjord hollow
