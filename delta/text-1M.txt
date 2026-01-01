@@ -13201,6 +13201,7 @@ edit 3: zephyr birch lantern timber juniper
 13203 mesa basalt jetty basalt zephyr ridge oasis canyon anchor zephyr
 13204 timber cloud anchor valley ripple upland
 13205 canyon ember sierra lagoon summit yarrow lantern nectar orbit ember anchor
+edit 40: estuary zephyr ember inlet fjord glacier ember fjord
 13206 harbor zephyr field maple fjord birch vale weir fern
 13207 summit cobalt mesa oasis kelp stone shoal stone lantern vapor quill river
 13208 zephyr island mesa basalt birch tor dune lagoon willow island harbor stone
