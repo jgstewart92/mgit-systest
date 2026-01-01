@@ -9036,7 +9036,7 @@ edit 2: amber stone juniper grove stone field
 09038 willow reef lagoon plateau nook ledge fjord shoal
 09039 oasis river shoal timber birch beacon
 09040 knoll wren fjord marsh amber stone ember jetty ledge basalt wren
-09041 ember shoal quartz estuary ridge orbit cobalt glacier oasis island
+edit 51: estuary oasis beacon inlet lagoon orbit
 09042 meadow nook timber nook tundra reef harbor shoal timber orbit
 09043 fjord inlet valley sierra reef juniper stone island valley
 09044 stone nook lantern lantern river glacier island fjord nectar vale vapor
