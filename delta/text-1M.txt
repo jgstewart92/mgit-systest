@@ -3350,7 +3350,6 @@ edit 11: vapor cobalt willow ridge estuary shoal
 03349 wren nectar oasis summit reef tor glacier wren timber fern canyon quill
 03350 quartz stone field inlet marsh estuary heath canyon estuary ember basalt
 03351 amber jetty mesa canyon ledge ridge drift plateau canyon
-03352 stone ledge stone meadow orbit pebble willow inlet nectar timber stone timber
 03353 kelp canyon nook canyon field ledge timber river willow
 03354 weir prairie tor jetty ledge plateau
 03355 tundra kelp ember plateau outcrop river drift birch weir
