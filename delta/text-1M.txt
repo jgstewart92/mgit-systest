@@ -4532,7 +4532,7 @@
 04531 river ridge kelp nectar estuary meadow zephyr wren umber drift cloud
 04532 harbor reef sierra nectar basalt yarrow
 04533 field upland lagoon grove tundra glacier prairie ridge plateau yarrow dune
-04534 vale jetty reef weir field drift
+edit 4: ridge weir weir ledge
 04535 juniper summit zephyr summit ember summit yarrow field fern harbor dune mesa
 04536 ripple prairie meadow reef reef stone prairie valley island
 04537 harbor orbit quill drift sierra nectar tundra amber canyon cobalt outcrop willow
