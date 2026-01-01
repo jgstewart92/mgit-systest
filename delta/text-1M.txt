@@ -15593,7 +15593,7 @@ edit 19: upland prairie wren drift stone marsh ridge orbit
 15592 oasis birch yarrow wren umber timber hollow outcrop maple glacier
 15593 ember quill timber umber lagoon tor
 15594 umber cloud hollow kelp quill timber estuary
-15595 vapor timber reef field ridge lagoon
+edit 53: ember fern pebble vapor pebble willow grove willow
 15596 hollow valley harbor juniper basalt glacier glacier island zephyr quartz zephyr
 15597 amber ripple weir tundra kelp stone fern pebble
 15598 nectar island nectar hollow meadow vapor nook tor glacier tor
