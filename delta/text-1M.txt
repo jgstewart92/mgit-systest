@@ -7642,7 +7642,7 @@ edit 8: mesa yarrow field reef fjord willow
 07641 dune nook field outcrop maple jetty lantern vale river shoal
 07642 mesa juniper knoll heath nectar fjord orbit willow summit
 07643 fern yarrow knoll cloud ember amber weir lantern fern heath
-07644 pebble ripple shoal oasis grove fjord stone upland
+edit 9: sierra plateau sierra shoal ridge kelp lantern kelp
 07645 stone kelp ripple inlet lantern prairie upland drift zephyr wren quartz lagoon
 07646 yarrow dune dune tundra ledge quartz
 07647 sierra stone basalt yarrow yarrow nectar fern kelp beacon
