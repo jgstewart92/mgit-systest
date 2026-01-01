@@ -12618,6 +12618,7 @@ edit 3: zephyr birch lantern timber juniper
 12621 fjord basalt dune oasis shoal yarrow fjord shoal anchor glacier
 12622 island marsh sierra quill marsh amber willow estuary vale quill orbit
 12623 maple valley weir hollow maple quill canyon orbit jetty umber
+edit 50: river lantern marsh pebble juniper shoal
 12624 glacier vapor outcrop amber quartz jetty field beacon yarrow canyon jetty
 12625 tor anchor inlet orbit glacier stone
 12626 canyon tor ridge plateau ember plateau oasis glacier shoal
