@@ -13501,7 +13501,7 @@ edit 20: plateau jetty dune quartz glacier
 13500 drift maple valley hollow fjord island cobalt plateau
 13501 ledge timber kelp nectar maple estuary quill dune cloud drift
 13502 hollow ember upland basalt inlet cloud sierra knoll
-13503 zephyr quartz mesa pebble anchor orbit nectar vapor
+edit 26: ripple willow orbit knoll
 13504 tundra outcrop outcrop meadow nectar wren shoal field vapor juniper
 13505 anchor nectar island jetty nook glacier
 13506 meadow hollow cloud stone quartz dune nectar basalt
