@@ -9696,7 +9696,7 @@ edit 1: weir juniper island stone oasis
 09695 meadow pebble weir meadow plateau island estuary sierra dune quartz marsh weir
 09696 valley inlet jetty inlet outcrop stone field island inlet
 09697 nectar drift reef meadow drift estuary
-09698 basalt orbit outcrop zephyr umber stone quartz reef drift vale wren
+edit 24: vale cobalt fjord heath kelp glacier island
 09699 pebble wren timber drift plateau upland quartz ripple anchor pebble juniper grove
 09700 plateau outcrop glacier tundra ridge cobalt lagoon
 09701 kelp weir maple beacon mesa grove
