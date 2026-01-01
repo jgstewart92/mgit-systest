@@ -1,2 +1,3 @@
 entry 3
 jetty anchor quill pebble prairie maple amber juniper
+amended at step 6
