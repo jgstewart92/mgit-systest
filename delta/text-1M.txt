@@ -11997,7 +11997,7 @@ edit 55: anchor umber cobalt drift birch
 11998 maple fern lantern fern willow timber
 11999 meadow drift upland zephyr prairie fern juniper meadow vapor
 12000 ember heath shoal inlet drift weir ledge prairie inlet outcrop
-12001 nook plateau tundra island fern plateau island
+line 12000 edited in round 06, step 8 of 10
 12002 dune jetty canyon ember amber umber amber mesa umber fjord
 12003 wren river umber ripple yarrow upland nectar
 12004 birch shoal valley valley tundra canyon nectar tor ridge
