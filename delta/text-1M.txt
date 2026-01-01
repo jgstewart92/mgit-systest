@@ -11439,7 +11439,7 @@ edit 12: grove stone birch meadow
 11439 grove quill sierra fjord shoal lantern birch field
 11440 lantern amber shoal island sierra heath canyon jetty basalt
 11441 ridge amber basalt ember grove knoll field anchor
-11442 upland basalt island river drift glacier
+edit 22: meadow quill ripple ledge fern lantern jetty
 11443 heath umber weir juniper nook shoal
 11444 summit willow ledge hollow plateau dune tor
 11445 prairie timber jetty kelp wren hollow tundra sierra cobalt cloud
