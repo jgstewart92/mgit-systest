@@ -4193,7 +4193,7 @@ edit 11: vapor cobalt willow ridge estuary shoal
 04193 beacon zephyr prairie quartz amber grove cloud birch umber
 04194 valley juniper weir jetty ripple oasis river
 04195 maple zephyr birch shoal fjord amber harbor hollow nook field nectar maple
-04196 pebble juniper juniper glacier oasis marsh
+edit 48: fern juniper juniper glacier
 04197 island zephyr knoll fern glacier prairie island drift jetty tundra meadow quill
 04198 glacier cobalt ledge cloud zephyr birch inlet lantern knoll cobalt
 04199 nook tor orbit prairie marsh hollow pebble anchor ember
