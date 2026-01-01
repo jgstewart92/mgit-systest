@@ -1422,7 +1422,7 @@ edit 10: drift quill wren umber field ripple
 01420 tundra kelp lagoon lantern cobalt shoal glacier estuary
 01421 inlet oasis island lagoon quill vapor
 01422 inlet kelp wren stone stone jetty harbor knoll heath canyon
-01423 anchor harbor birch pebble lagoon beacon orbit timber hollow prairie lantern harbor
+edit 37: estuary maple ripple stone estuary maple river
 01424 heath island vapor tundra lantern canyon harbor hollow
 01425 ridge cloud outcrop shoal orbit wren lagoon
 01426 pebble outcrop fjord willow reef quartz birch orbit
