@@ -6089,7 +6089,7 @@ edit 23: birch amber vapor amber nook
 06089 kelp outcrop harbor fern inlet anchor weir stone wren
 06090 kelp tor tundra marsh birch hollow upland reef dune cobalt kelp
 06091 timber juniper marsh heath inlet orbit nook
-06092 orbit harbor shoal heath wren mesa kelp hollow wren juniper
+edit 31: heath pebble orbit maple grove amber upland
 06093 inlet cobalt birch cloud stone lantern basalt ridge
 06094 juniper tor cobalt ember quill ledge summit shoal estuary
 06095 lantern heath drift orbit summit estuary nectar river juniper
