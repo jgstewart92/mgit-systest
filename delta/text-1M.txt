@@ -8328,7 +8328,7 @@ edit 5: wren vale sierra basalt birch drift willow basalt
 08329 pebble reef plateau field quartz harbor tor sierra nectar
 08330 fern nectar drift quill reef weir
 08331 knoll yarrow estuary lagoon reef valley river pebble drift
-08332 knoll heath kelp fjord maple ledge beacon outcrop zephyr
+edit 41: fjord river stone stone grove ember island anchor
 08333 vale meadow tundra yarrow shoal jetty jetty nook orbit quartz
 08334 dune fjord tor vale sierra prairie anchor shoal canyon
 08335 ember canyon tundra jetty weir ledge
