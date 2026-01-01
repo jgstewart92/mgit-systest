@@ -11363,7 +11363,7 @@ edit 33: oasis nook yarrow reef outcrop drift
 11366 quill island marsh yarrow quill maple island
 11367 valley yarrow valley valley cloud canyon estuary basalt
 11368 quartz nectar sierra fjord umber reef tor estuary birch
-11369 lantern meadow quartz grove drift estuary upland fern island nectar jetty quartz
+edit 54: valley timber glacier ember jetty
 11370 jetty lantern umber anchor heath lagoon juniper yarrow ledge knoll oasis harbor
 11371 nook lantern juniper orbit oasis basalt timber inlet prairie beacon willow orbit
 11372 nectar heath marsh hollow orbit beacon estuary oasis fern wren harbor
