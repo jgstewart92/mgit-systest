@@ -14905,7 +14905,7 @@ edit 32: field ripple lantern valley heath
 14905 prairie shoal hollow heath summit birch fern pebble reef oasis ripple
 14906 hollow tor marsh pebble zephyr vapor fjord cloud hollow
 14907 oasis kelp meadow ridge plateau weir tor sierra timber quartz heath kelp
-14908 anchor jetty grove umber wren reef island
+edit 38: stone orbit jetty cobalt
 14909 ember vapor valley vapor basalt river dune
 14910 grove prairie cloud fern canyon canyon drift fern tor
 14911 jetty grove tundra marsh tundra orbit cloud
