@@ -15680,6 +15680,7 @@ edit 19: upland prairie wren drift stone marsh ridge orbit
 15679 estuary heath ridge inlet yarrow birch umber
 15680 canyon summit canyon marsh nook timber cloud tor stone shoal harbor
 15681 kelp nectar weir tundra lantern field yarrow harbor meadow drift
+edit 30: stone juniper timber meadow
 15682 nectar maple cobalt kelp estuary outcrop juniper outcrop estuary ledge ledge dune
 15683 glacier knoll canyon marsh weir ledge kelp juniper tor dune
 15684 quartz ripple field knoll maple ripple field quill ridge stone fjord dune
