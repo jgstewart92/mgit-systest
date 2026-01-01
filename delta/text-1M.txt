@@ -2997,7 +2997,7 @@ edit 11: vapor cobalt willow ridge estuary shoal
 02994 marsh ledge lagoon vale harbor dune timber outcrop
 02995 shoal estuary weir quartz birch harbor yarrow ridge ember weir zephyr
 02996 vapor wren hollow basalt summit stone valley ember
-02997 lantern cobalt oasis island lantern prairie hollow estuary
+line 3000 edited in round 06, step 2 of 10
 02998 upland summit inlet cobalt weir yarrow stone wren ember quartz stone
 02999 marsh lantern ember yarrow wren prairie shoal reef sierra
 03000 field ripple river upland valley stone
