@@ -13037,7 +13037,7 @@ edit 3: zephyr birch lantern timber juniper
 13040 harbor quartz orbit vale lantern heath pebble
 13041 beacon knoll nectar fern basalt estuary willow canyon
 13042 knoll glacier dune glacier grove island
-13043 lantern island summit vale knoll quill drift knoll ember estuary timber
+edit 44: cobalt ledge juniper vale vapor shoal tundra
 13044 shoal willow knoll marsh upland valley island maple harbor cloud nook pebble
 13045 jetty cloud heath anchor beacon nectar fern canyon glacier tundra yarrow willow
 13046 wren river lantern knoll fjord ledge
