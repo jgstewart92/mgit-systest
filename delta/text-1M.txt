@@ -5202,7 +5202,7 @@ edit 4: ridge weir weir ledge
 05203 kelp stone summit inlet glacier orbit timber juniper tundra stone
 05204 tor glacier grove fjord kelp vapor kelp prairie
 05205 vale upland knoll anchor estuary marsh basalt
-05206 timber lantern drift maple upland quartz reef pebble
+edit 61: fern quill river yarrow ridge ember fjord umber
 05207 birch hollow beacon willow outcrop river canyon
 05208 jetty willow sierra yarrow willow fern amber
 05209 heath sierra summit cobalt maple ember glacier umber knoll willow
