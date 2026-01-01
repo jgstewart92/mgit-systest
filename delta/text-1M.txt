@@ -13482,7 +13482,7 @@ edit 20: plateau jetty dune quartz glacier
 13483 valley willow mesa ledge juniper island oasis
 13484 grove oasis vapor amber pebble cloud quill wren
 13485 orbit glacier lantern zephyr basalt ridge nook quill quartz
-13486 fjord tor nectar quartz willow quill
+edit 39: fjord canyon reef harbor ledge valley
 13487 marsh outcrop quill anchor ember ledge grove pebble heath ledge yarrow tundra
 13488 oasis cloud reef valley sierra meadow wren
 13489 juniper lagoon basalt upland oasis vale stone vapor canyon nectar river
