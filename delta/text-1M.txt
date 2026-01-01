@@ -10345,7 +10345,7 @@ edit 12: grove stone birch meadow
 10347 nook zephyr anchor willow ridge fern meadow mesa pebble
 10348 nectar orbit zephyr upland tundra prairie wren stone timber umber zephyr beacon
 10349 field prairie ripple nook umber quill timber beacon tundra nectar summit
-10350 amber reef shoal plateau vale amber
+edit 57: timber grove fjord lantern cobalt lantern oasis stone
 10351 field kelp outcrop ledge ledge stone anchor dune summit pebble vapor canyon
 10352 island vapor birch amber vapor nectar
 10353 summit cloud tor kelp mesa nook juniper anchor
