@@ -14895,7 +14895,7 @@ edit 25: lantern ridge orbit glacier
 14894 cobalt nectar fjord kelp beacon umber vale outcrop birch dune
 14895 stone ledge prairie ridge yarrow drift vapor jetty hollow
 14896 marsh lantern jetty island orbit maple fjord hollow
-14897 quill kelp amber grove prairie fern glacier cloud orbit
+edit 32: field ripple lantern valley heath
 14898 orbit drift umber marsh hollow summit
 14899 kelp knoll quartz plateau tundra umber meadow
 14900 stone dune cobalt basalt sierra juniper
