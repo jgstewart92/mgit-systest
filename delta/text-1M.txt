@@ -7719,7 +7719,7 @@ edit 9: sierra plateau sierra shoal ridge kelp lantern kelp
 07723 ember maple vale field plateau marsh drift beacon heath estuary weir
 07724 cobalt amber nook dune lagoon lagoon beacon
 07725 vale cloud juniper nectar oasis glacier valley fjord zephyr nook yarrow birch
-07726 juniper amber shoal willow lagoon mesa birch amber
+edit 52: river prairie estuary cobalt
 07727 plateau juniper estuary heath ridge anchor mesa ridge field marsh oasis
 07728 quill meadow timber cobalt meadow meadow hollow cloud oasis kelp vapor pebble
 07729 stone anchor anchor island vapor nectar nook vapor weir plateau
