@@ -10714,7 +10714,6 @@ edit 12: grove stone birch meadow
 10712 tor grove heath kelp island shoal
 10713 timber yarrow ridge inlet inlet juniper river quartz
 10714 summit mesa prairie ripple fern pebble lagoon mesa lantern plateau anchor
-10715 fjord nectar weir stone stone willow umber tundra
 10716 hollow glacier upland river weir summit vapor vale
 10717 timber marsh quartz yarrow yarrow grove lantern jetty ridge ember
 10718 sierra amber juniper timber jetty plateau
