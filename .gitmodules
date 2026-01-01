@@ -1,0 +1,3 @@
+[submodule "notice/sub"]
+	path = notice/sub
+	url = https://example.invalid/sub.git
