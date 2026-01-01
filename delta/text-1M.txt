@@ -15195,7 +15195,7 @@ edit 25: lantern ridge orbit glacier
 15193 vale marsh reef prairie zephyr nook sierra summit birch outcrop
 15194 hollow jetty knoll zephyr ember knoll willow vale heath yarrow timber yarrow
 15195 reef reef orbit zephyr heath timber valley glacier fern
-15196 juniper reef quartz fjord plateau cloud juniper quill tundra yarrow
+edit 27: pebble summit canyon drift mesa pebble field
 15197 oasis umber upland ripple ridge summit ripple
 15198 vapor quartz basalt pebble dune field
 15199 hollow beacon vapor dune tundra nectar ember anchor nectar mesa
