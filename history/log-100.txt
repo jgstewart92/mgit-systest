@@ -1,2 +1,3 @@
 entry 100
 inlet canyon sierra outcrop cobalt marsh ridge quartz summit
+amended at step 103
