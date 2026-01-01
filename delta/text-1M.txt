@@ -10497,7 +10497,7 @@ edit 57: timber grove fjord lantern cobalt lantern oasis stone
 10498 dune willow wren ember grove maple oasis
 10499 meadow estuary glacier quartz wren plateau dune oasis tor dune
 10500 ember harbor yarrow fern kelp vale umber dune field plateau oasis nook
-10501 vapor zephyr fjord ridge canyon knoll drift orbit oasis cobalt kelp
+line 10500 edited in round 06, step 7 of 10
 10502 oasis vale field oasis shoal upland umber juniper zephyr willow fern cobalt
 10503 tundra cobalt anchor meadow hollow wren ember wren sierra juniper
 10504 glacier outcrop anchor vale ledge jetty glacier knoll
