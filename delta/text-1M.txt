@@ -3037,7 +3037,6 @@ edit 11: vapor cobalt willow ridge estuary shoal
 03035 marsh ripple cobalt lagoon sierra vapor orbit umber
 03036 drift ridge basalt quill lantern juniper lagoon cloud prairie glacier
 03037 lagoon valley stone willow river knoll
-03038 vapor jetty yarrow dune ledge island anchor canyon beacon mesa
 03039 shoal outcrop yarrow basalt valley umber nook maple
 03040 lagoon wren estuary anchor river willow ripple
 03041 meadow amber river heath ember marsh anchor quartz
