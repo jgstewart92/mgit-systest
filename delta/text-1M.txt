@@ -4511,7 +4511,6 @@ edit 48: fern juniper juniper glacier
 04511 oasis lantern orbit oasis timber upland
 04512 basalt willow amber fern stone fjord outcrop umber wren maple nectar jetty
 04513 hollow vale valley willow nectar meadow timber sierra valley
-04514 glacier weir dune heath nectar amber quill
 04515 beacon tor timber ember grove ridge canyon lantern quill
 04516 willow jetty orbit dune umber stone cloud
 04517 orbit ember field hollow sierra island vale jetty marsh
