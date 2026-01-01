@@ -7678,7 +7678,6 @@ edit 4: ridge weir weir ledge
 07677 basalt drift shoal dune kelp nectar ledge
 07678 glacier field dune inlet vale cobalt marsh ridge ledge kelp
 07679 birch jetty outcrop nook basalt yarrow oasis weir
-07680 summit ripple basalt grove mesa island summit reef ledge
 07681 kelp zephyr plateau field heath ember
 07682 weir field valley knoll umber shoal
 07683 tundra oasis willow beacon basalt quill quill weir harbor
