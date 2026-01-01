@@ -13278,6 +13278,7 @@ edit 3: zephyr birch lantern timber juniper
 13277 ember meadow inlet marsh fjord knoll river amber jetty valley
 13278 harbor weir quill kelp anchor cloud oasis marsh stone
 13279 maple ember juniper vapor stone weir fern valley sierra
+edit 20: plateau jetty dune quartz glacier
 13280 beacon inlet ember drift plateau anchor fern
 13281 beacon ember island basalt basalt mesa jetty upland lagoon basalt timber pebble
 13282 ridge nook lantern summit juniper zephyr weir
