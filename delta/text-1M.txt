@@ -16187,7 +16187,7 @@ edit 3: zephyr birch lantern timber juniper
 16185 maple birch pebble lantern plateau shoal upland nectar anchor quartz ledge
 16186 ripple outcrop plateau wren field drift oasis upland cobalt nectar meadow vale
 16187 plateau nectar timber estuary quartz upland hollow plateau ember valley nook
-16188 birch sierra heath juniper fjord juniper ember field
+edit 13: tor willow river meadow plateau marsh hollow cobalt
 16189 maple estuary sierra quill jetty anchor field basalt field yarrow birch maple
 16190 sierra lantern basalt cobalt yarrow birch beacon inlet ember anchor mesa
 edit 6: umber grove shoal wren
