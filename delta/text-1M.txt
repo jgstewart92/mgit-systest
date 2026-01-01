@@ -6443,7 +6443,6 @@ edit 31: heath pebble orbit maple grove amber upland
 06443 marsh shoal river basalt ledge basalt yarrow heath
 06444 zephyr ripple summit outcrop shoal quartz drift beacon amber
 06445 weir shoal stone orbit willow amber meadow island ripple nectar
-06446 dune river nook cobalt valley heath maple juniper weir
 06447 meadow dune ledge estuary grove orbit tundra marsh knoll zephyr beacon pebble
 06448 island vapor river orbit maple stone
 06449 ledge weir heath drift glacier anchor zephyr lagoon
