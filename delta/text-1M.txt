@@ -15398,7 +15398,7 @@ edit 17: pebble lagoon vale summit wren amber umber
 15397 fjord island river ridge canyon meadow cloud lantern mesa
 15398 nectar ripple prairie heath river outcrop island marsh tor
 15399 shoal glacier zephyr reef basalt beacon vapor valley
-15400 tor tor cobalt sierra nook hollow cobalt summit vale anchor
+edit 19: upland prairie wren drift stone marsh ridge orbit
 15401 zephyr fern willow ripple summit ledge sierra anchor grove ember oasis upland
 15402 plateau island heath ripple plateau canyon fern drift
 15403 grove grove prairie juniper river juniper birch zephyr lagoon valley quartz summit
