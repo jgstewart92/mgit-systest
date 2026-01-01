@@ -11451,7 +11451,7 @@ edit 1: weir juniper island stone oasis
 11450 timber cobalt basalt island tor drift nectar umber
 11451 tundra reef juniper sierra juniper heath hollow ember fern ember nectar nook
 11452 ridge weir grove marsh quill upland vale glacier birch mesa marsh
-11453 tundra canyon vale reef willow zephyr drift wren umber
+edit 3: zephyr birch lantern timber juniper
 11454 ledge amber hollow umber nectar ledge cloud knoll
 11455 outcrop knoll stone estuary willow amber
 11456 nectar drift amber grove nook outcrop upland inlet grove fjord
