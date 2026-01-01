@@ -7497,7 +7497,7 @@ edit 8: mesa yarrow field reef fjord willow
 07499 island estuary nook yarrow dune shoal jetty inlet
 07500 meadow kelp tor dune grove river ridge anchor upland glacier
 07501 orbit lagoon nook amber grove drift
-07502 dune knoll maple dune heath basalt mesa canyon heath
+line 7500 edited in round 06, step 5 of 10
 07503 vapor anchor summit nectar tundra lagoon stone grove
 07504 tundra river canyon harbor birch fjord
 07505 maple oasis anchor kelp ledge amber glacier nook canyon kelp jetty zephyr
