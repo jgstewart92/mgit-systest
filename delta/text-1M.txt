@@ -8370,7 +8370,7 @@
 08369 jetty cobalt ripple weir vapor kelp grove nook birch mesa
 08370 canyon jetty stone plateau summit ridge hollow marsh field upland outcrop canyon
 08371 island oasis nook heath yarrow zephyr wren
-08372 nectar glacier stone oasis estuary tundra prairie anchor
+edit 2: amber stone juniper grove stone field
 08373 birch island upland reef birch orbit upland
 08374 beacon beacon dune shoal outcrop cobalt heath stone
 08375 ember cloud beacon grove willow knoll quill umber sierra upland
