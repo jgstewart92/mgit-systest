@@ -8015,7 +8015,7 @@ edit 9: sierra plateau sierra shoal ridge kelp lantern kelp
 08014 heath nectar mesa ledge inlet birch shoal ledge quartz meadow reef
 08015 river prairie cobalt ripple river nook
 08016 umber hollow drift fjord basalt yarrow sierra
-08017 heath reef shoal ledge valley summit river hollow shoal island drift
+edit 18: fjord ripple stone lagoon mesa reef glacier
 08018 amber outcrop ripple tor fern cloud heath
 08019 ember amber hollow reef upland yarrow outcrop orbit
 08020 weir yarrow valley lagoon ledge tor prairie tundra zephyr nook lagoon
